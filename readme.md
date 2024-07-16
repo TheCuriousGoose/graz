@@ -1,6 +1,6 @@
 To setup the individual modules
 
-1. cd <module>/<phase>
+1. cd {module}/{phase}
 
 2. npm install
 
